@@ -15,4 +15,4 @@ A simple and lightweight 2D top-down shooter game.
 ### Tutorial Inspiration:
 
 I learned about creating the health bar, main menu, snake movement, and spawner from this video series:  
-[YouTube Tutorial by SpeedTutor](https://youtu.be/M4pXKGV5NbY?si=gECCPnxzXy0YMMV0)
+[Unity 2D Top Down Shooter for Beginners](https://youtu.be/M4pXKGV5NbY?si=gECCPnxzXy0YMMV0)
