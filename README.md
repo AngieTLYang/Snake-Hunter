@@ -1,6 +1,7 @@
 # Snake-Hunter
 
 A simple and lightweight 2D top-down shooter game.
+[Watch the gameplay demo on YouTube](https://www.youtube.com/watch?v=gt7XLO9Mx4w)
 
 ---
 
